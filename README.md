@@ -1,7 +1,7 @@
 
 # **Server Admin Web App**
 
-![img-src]("https://earthmc.net/src/img/logo.png")
+<img-src="https://earthmc.net/src/img/logo.png" width ="48"/>
 
 *An Web App Written In Python For Managing My Personal Servers.*
 
